@@ -22,7 +22,7 @@ Fine-Tuned Filters: Users can apply filters based on various criteria, such as g
 ![image](https://github.com/user-attachments/assets/30ea84df-c0ff-4504-8974-d8232a33d1cb)
 ![image](https://github.com/user-attachments/assets/cfe3edcf-6383-4afb-ac8c-f1b04c97a773)
 # 🙏 Acknowledgments
-In the development of Movix, we express our gratitude to the following third-party libraries and APIs that have significantly contributed to the application's functionality and user experience:
+In the development of Moviz, we express our gratitude to the following third-party libraries and APIs that have significantly contributed to the application's functionality and user experience:
 
 Redux Toolkit (@reduxjs/toolkit): A comprehensive toolset for managing application state with Redux, streamlining state management and reducing boilerplate code.
 
