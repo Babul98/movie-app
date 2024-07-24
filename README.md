@@ -1,7 +1,7 @@
 # Moviz - Ultimate Movie and TV Show Discovery Platform
 ![Screenshot 2024-07-24 071135](https://github.com/user-attachments/assets/3bcb3925-eec3-4acd-be1c-ed76258f1b30)
 Moviz is a web application built using React and Redux that allows users to search for movies and TV shows, view popular, trending, and upcoming releases on a daily and weekly basis, and explore detailed information about each title, including trailers and related videos.
-📝 Features
+# 📝 Features
 Movie and TV Shows Search: Users can easily search for movies and TV shows by their respective names.
 
 Popular, Trending, and Upcoming: The homepage showcases popular, trending, and upcoming movies and TV shows, with their names, posters, genres, and ratings.
