@@ -12,16 +12,16 @@ Personalized Recommendations: Users receive recommendations for similar movies a
 
 Fine-Tuned Filters: Users can apply filters based on various criteria, such as genre, release date, rating, and more, to refine their search results.
 
-Tending & Popular Movies:
+### Tending & Popular Movies:
 ![image](https://github.com/user-attachments/assets/060fc28d-3af7-4b23-9dd8-99449b5bf203)
-Movie Details Page:
+### Movie Details Page:
 ![image](https://github.com/user-attachments/assets/d9f33776-5c1d-471d-958a-d53301b54fbe)
 ![image](https://github.com/user-attachments/assets/a427c26b-6998-4bc4-9050-09d3a092176a)
 ![image](https://github.com/user-attachments/assets/cca9c0bf-5394-4d7a-95cd-afe7c90f2874)
 ![image](https://github.com/user-attachments/assets/9b91e2b0-8bee-4faf-a3a2-e45849e76013)
 ![image](https://github.com/user-attachments/assets/30ea84df-c0ff-4504-8974-d8232a33d1cb)
 ![image](https://github.com/user-attachments/assets/cfe3edcf-6383-4afb-ac8c-f1b04c97a773)
-🙏 Acknowledgments
+# 🙏 Acknowledgments
 In the development of Movix, we express our gratitude to the following third-party libraries and APIs that have significantly contributed to the application's functionality and user experience:
 
 Redux Toolkit (@reduxjs/toolkit): A comprehensive toolset for managing application state with Redux, streamlining state management and reducing boilerplate code.
